@@ -7,27 +7,24 @@ Git is a distributed version control system that records every change made to fi
 2.1 Git add, commit, and commit messages. 
 2.2 Committing changes to the local repository. 
                          
-## Branching and Merging:
+# Branching and Merging:
 3.1 Basics of branching and merging in Git and Merging changes back into the main branch.
   
-4. Remote Repositories:
+# Remote Repositories:
 4.1 Cloning repositories from remote sources and Pushing changes to remote repositories. 
  
 
 
-5. Collaborative Work:
-	5.1 Working with others on the same project.
+# Collaborative Work:
+5.1 Working with others on the same project.
+5.2 Handling merge conflicts. 
+# Git Ignore:
+6.1 Ignoring files and directories using. gitignore. 
  
-	5.2 Handling merge conflicts. 
-6. Git Ignore:
-	6.1 Ignoring files and directories using. gitignore. 
- 
 
 
-
-
-7. Tagging:
-	7.1 Creating and managing tags for releases or specific points in history. 
+# Tagging:
+7.1 Creating and managing tags for releases or specific points in history. 
  
 
 
