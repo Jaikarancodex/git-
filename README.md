@@ -53,6 +53,11 @@ Understanding and utilizing Git hooks for customizing workflows.
 Managing and working with submodules within a Git repository. 
 <img width="1090" height="1211" alt="image" src="https://github.com/user-attachments/assets/7a0dc09b-8802-4f5a-8cd7-e3bf28cd0d47" />
 
+# Interactive Rebase:
+Interactive rebasing for more controlled commit history.
+<img width="825" height="82" alt="image" src="https://github.com/user-attachments/assets/96499a2b-2d69-4154-8e34-85b8efc45aea" />
+
+
 
  
 
