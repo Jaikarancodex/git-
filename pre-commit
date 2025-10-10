@@ -1,0 +1,9 @@
+#!/bin/bash
+# This runs before every commit
+
+if [ ! -s "test.txt" ]; then
+  echo "❌ test.txt is empty! Commit rejected."
+  exit 1
+fi
+
+echo "✅ test.txt is not empty. Commit allowed."
