@@ -1,5 +1,5 @@
 # Visualization Git
-Visualization in Git is the process of representing the commit history, branches, and merges in a visual format to make it easier to understand the structure and evolution of a repository. Instead of manually reading long commit logs, visualization provides a clear, graphical view of how different branches diverge and merge over time. It helps developers quickly identify where new features were added, how the project has progressed, and how multiple collaborators have contributed to the codebase.
+Visualization in Git is the process of representing the commits, branches, and merges in a visual format to make it easier to understand the structure and evolution of a repository. Instead of manually reading long commit logs, visualization provides a clear, graphical view of how different branches diverge and merge over time. It helps developers quickly identify where new features were added, how the project has progressed, and how multiple collaborators have contributed to the codebase.
 ## Link: https://learngitbranching.js.org/
 
 # Branch & Merge
