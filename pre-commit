@@ -1,7 +1,5 @@
-#!/bin/bash
-# This runs before every commit
 
-if [ ! -s "test.txt" ]; then
+if [ ! -s " " ]; then
   echo "❌ test.txt is empty! Commit rejected."
   exit 1
 fi
