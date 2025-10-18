@@ -153,7 +153,8 @@ Push the changes to the master branch.
 <img width="952" height="217" alt="image" src="https://github.com/user-attachments/assets/9ec8ee21-5255-4a4b-8639-edae4889f005" />
 
 #### Step 2
-<img width="937" height="181" alt="image" src="https://github.com/user-attachments/assets/00e86192-fe35-4e91-a52e-a4249977d278" />
+<img width="938" height="137" alt="image" src="https://github.com/user-attachments/assets/f83d650d-90f1-4d38-89ce-28194daf22df" />
+
 
 
 
