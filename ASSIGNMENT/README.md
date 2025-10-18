@@ -148,11 +148,9 @@ Push the changes to the master branch.
 
 ## Note: There will be a conflict in the pull request, how do we resolve it?? 
 ### Hint: git rebase 
-
-# Step 1
+Step 1
 <img width="952" height="217" alt="image" src="https://github.com/user-attachments/assets/9ec8ee21-5255-4a4b-8639-edae4889f005" />
-
-# step 2
+Step 2
 <img width="937" height="181" alt="image" src="https://github.com/user-attachments/assets/00e86192-fe35-4e91-a52e-a4249977d278" />
 
 
