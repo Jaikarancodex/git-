@@ -34,3 +34,10 @@ Create a file in local push into git remote repository.
 
 ### Step 8: Fetch the changes, navigate into the cloned repository using the command line, and use the command git fetch to fetch any changes that have been made to the original repository since you cloned it.
 ###
+<img width="943" height="163" alt="image" src="https://github.com/user-attachments/assets/02d88abb-28d7-4022-aafd-cfc3e529473b" />
+
+### Step 9: Pull changes, merge the changes you just fetched into your local copy of the repository, and use the command git pull. 
+###
+<img width="947" height="101" alt="image" src="https://github.com/user-attachments/assets/d5bf8431-0259-46f1-95d5-b1679fc4d8a1" />
+
+
