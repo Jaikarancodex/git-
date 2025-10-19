@@ -155,6 +155,45 @@ Push the changes to the master branch.
 #### Step 2
 <img width="938" height="137" alt="image" src="https://github.com/user-attachments/assets/f83d650d-90f1-4d38-89ce-28194daf22df" />
 
+# Question 4 
+
+## Step 1: 
+Create a feature branch. 
+###
+<img width="941" height="132" alt="image" src="https://github.com/user-attachments/assets/5fd08f06-d424-41c4-a653-21af590f60d1" />
+
+## Step 2: 
+Switch to the new branch. 
+###
+<img width="932" height="205" alt="image" src="https://github.com/user-attachments/assets/60be8eff-b9aa-41cf-91b2-d1467ccbb267" />
+
+###
+### open the file and make some changes to it (X3).
+## #1
+<img width="941" height="205" alt="image" src="https://github.com/user-attachments/assets/eaeb6cd0-d34f-4e29-9e81-fa078dfcb09a" />
+
+## #2
+<img width="936" height="212" alt="image" src="https://github.com/user-attachments/assets/8ee73716-dd99-47b8-be35-b3564ed58f58" />
+
+## #3
+<img width="941" height="207" alt="image" src="https://github.com/user-attachments/assets/049b29c0-adcc-4810-8d0d-f835023cf57f" />
+
+## Step 3: 
+Identify the commit or commits that you want to "cherry-pick"(Note the hash of the commit or commits that you want to "cherry-pick") 
+###
+<img width="948" height="87" alt="image" src="https://github.com/user-attachments/assets/cabbeda7-a5d0-447e-8831-6f1b661760bd" />
+
+## Step 4: 
+Use the "git checkout" command to switch to the branch where you want to apply the changes. 
+###
+<img width="936" height="208" alt="image" src="https://github.com/user-attachments/assets/d12928c2-faba-41f2-87d8-188fa3c8c410" />
+
+## Step 5: 
+Use the "git cherry-pick" command followed by the commit hash(es) that you want to apply. 
+###
+<img width="938" height="252" alt="image" src="https://github.com/user-attachments/assets/da72bec2-cb55-46a7-9de6-48d1b6391fed" />
+
+
 
 
 
