@@ -242,9 +242,10 @@ Use the "git revert" command followed by the commit hash or reference to which y
 ## Step 8: 
 Verify that the revert was successful by using the "git log" command again. 
 ###
-<img width="936" height="87" alt="image" src="https://github.com/user-attachments/assets/8c6380aa-015a-4fe2-ae70-fcbe32fa1db0" />
+<img width="932" height="85" alt="image" src="https://github.com/user-attachments/assets/87176975-4a73-44ef-82bf-20f4773c31de" />
 
-## Note: Identify the difference between git log after git reset  and git r evert. 
+
+## Note: Identify the difference between git log after git reset  and git revert. 
 
 
 
