@@ -1,14 +1,14 @@
 # GIT ASSIGNMENT
-###  💻Environment: Git Bash (Windows 11), GitHub Desktop
+###  💻Environment: Git Bash (Windows 11), GitHub Desktop.
 
 # 🧩 Question 1 — Basic Git Operations
 
 ## Step 1: Create a new Git repository: 
-Creating a new repository named has git_assignment 
+Creating a new repository named has git_assignment.
 ###
 <img width="1766" height="857" alt="Screenshot 2025-10-08 155743" src="https://github.com/user-attachments/assets/3bb6b4ef-67ec-4913-8fd0-1a539397ef83" />
 
-## Step 2:Create a file and commit changes: 
+## Step 2: Create a file and commit changes: 
 Create a file in local push into git remote repository.
 ###
 <img width="880" height="475" alt="Screenshot 2025-10-08 160706" src="https://github.com/user-attachments/assets/a10b15dc-dcc1-442b-9566-1abb8363ef0a" />
