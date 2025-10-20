@@ -1,6 +1,7 @@
 # GIT ASSIGNMENT
+###  💻Environment: Git Bash (Windows 11), GitHub Desktop
 
-# Question 1: 
+# 🧩 Question 1 — Basic Git Operations
 
 ## Step 1: Create a new Git repository: 
 Creating a new repository named has git_assignment 
@@ -47,7 +48,7 @@ Pull changes, merge the changes you just fetched into your local copy of the rep
 ###
 <img width="947" height="101" alt="image" src="https://github.com/user-attachments/assets/d5bf8431-0259-46f1-95d5-b1679fc4d8a1" />
 
-# Question 2 
+# 🌿 Question 2 — Branching and Merging
 
 ## Step 1: 
 Clone the repository you have created in GitHub. 
@@ -89,7 +90,7 @@ Push changes to the original branch
 ###
 <img width="945" height="202" alt="image" src="https://github.com/user-attachments/assets/7aefb568-1dee-4e36-97aa-7bc5c2f27149" />
 
-# Question 3 
+# 🔀 Question 3 — Pull Request and Merge Conflict Resolution
 
 ## Step 1: 
 Create a feature branch.
@@ -131,17 +132,17 @@ Create a pull request.
 ### Merged
 <img width="1905" height="148" alt="pul4" src="https://github.com/user-attachments/assets/78da3a6a-fac4-4731-91ba-f9721f148ec2" />
 
-## Step 6: 
+## Step 7: 
 As another user in the master branch make some changes to the same file. 
 ###
 <img width="937" height="262" alt="image" src="https://github.com/user-attachments/assets/70a7e54e-44ee-48d2-ad82-1de0dc76f595" />
 
-## Step 7: 
+## Step 8: 
 Add and commit the changes to the master branch. 
 ###
 <img width="943" height="181" alt="image" src="https://github.com/user-attachments/assets/eecd8752-98e1-448b-9c2b-1f3d6fdae818" />
 
-## Step 8: 
+## Step 9: 
 Push the changes to the master branch. 
 ###
 <img width="940" height="262" alt="image" src="https://github.com/user-attachments/assets/81fc88f3-2781-429d-ab40-14a2f69234ed" />
@@ -155,7 +156,7 @@ Push the changes to the master branch.
 #### Step 2
 <img width="938" height="137" alt="image" src="https://github.com/user-attachments/assets/f83d650d-90f1-4d38-89ce-28194daf22df" />
 
-# Question 4 
+# 🍒 Question 4 — Cherry-Pick Commits
 
 ## Step 1: 
 Create a feature branch. 
@@ -193,7 +194,7 @@ Use the "git cherry-pick" command followed by the commit hash(es) that you want 
 ###
 <img width="938" height="252" alt="image" src="https://github.com/user-attachments/assets/da72bec2-cb55-46a7-9de6-48d1b6391fed" />
 
-# Question 5 
+# ♻️ Question 5 — Reset vs Revert
 ## Step 1: 
 Step 1: Create a feature branch. 
 ### 
