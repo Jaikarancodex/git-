@@ -232,7 +232,7 @@ Verify that the reset was successful by using the "git log" command again.
 ## Step 6: 
 Use the "git log" command to view the commit history and identify the commit that you want to reverse. 
 ###
-<img width="936" height="157" alt="image" src="https://github.com/user-attachments/assets/c4910213-9994-4424-85d5-f64ad9ef3141" />
+<img width="935" height="151" alt="image" src="https://github.com/user-attachments/assets/5e16380f-24ec-4557-8a60-7bc91e271a50" />
 
 ## Step 7: 
 Use the "git revert" command followed by the commit hash or reference to which you want to revert. (Hint: git revert <commit hash>)
